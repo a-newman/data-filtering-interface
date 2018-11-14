@@ -1,0 +1,2267 @@
+{
+    "Knitting/yt-8FpEsaW-BvU_692.mp4": {
+        "crafting": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "knitting": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        },
+        "sewing": {
+            "neg": 3,
+            "pos": 7,
+            "type": "action"
+        },
+        "taping": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "adult+male+singing/yt-ThVXZs16ADA_26.mp4": {
+        "adult+male+singing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "other"
+        },
+        "applauding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "showing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "singing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stealing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "aiming/yt-9Lt14akBMys_110.mp4": {
+        "aiming": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "ball": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "hitting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "recreation_room": {
+            "neg": 0,
+            "pos": 4,
+            "type": "scene"
+        },
+        "squinting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "stick": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "table": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "aiming/yt-TZxMpW5LSAg_1.mp4": {
+        "aiming": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "playing+videogames": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "shooting": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "showing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "applauding/yt-RTIqWi2-fPI_4.mp4": {
+        "applauding": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "clapping": {
+            "neg": 0,
+            "pos": 8,
+            "type": "action"
+        }
+    },
+    "autographing/ashley-massaro-at-the-wwe-diva-ashley-massaro-autographs-copies-of-video-id75822352.mp4": {
+        "autographing": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        },
+        "signing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "balancing/getty-happy-baby-boy-sitting-in-playground-swing-outdoors-with-mom-video-id540819978_16.mp4": {
+        "baby": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "balancing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "pushing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "swing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "woman": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "baptizing/yt-o-G6TKeZSVI_73.mp4": {
+        "baptizing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "girl": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "sewing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "barking/yt-ayYAp5MOAOw_49.mp4": {
+        "barking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "dog": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "guarding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "scratching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "bathing/flickr-3-8-8-6-3-7-5-7-9538863757_48.mp4": {
+        "bathing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "bathroom": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "bird": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "cleaning": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "draining": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "washing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "blocking/vine-MDZ1dKQKdHF_2.mp4": {
+        "blocking": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "coaching": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "competing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "playing+sports": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "pressing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "pushing": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "running": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "soccer_field": {
+            "neg": 1,
+            "pos": 3,
+            "type": "scene"
+        }
+    },
+    "boarding/flickr-6-9-6-7-5-6-1-0-3769675610_1.mp4": {
+        "ascending": {
+            "neg": 4,
+            "pos": 10,
+            "type": "action"
+        },
+        "beach": {
+            "neg": 1,
+            "pos": 3,
+            "type": "scene"
+        },
+        "boarding": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "sliding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "boxing/giphy-o5zhJPeyATha8_2.mp4": {
+        "attacking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "boxing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "fighting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "hugging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "martial_arts_gym": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        }
+    },
+    "brushing/yt-77_qCPVh0Pw_12.mp4": {
+        "brushing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "combing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "grooming": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "showing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stroking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "burning/yt-aG5-aiNiaz4_30.mp4": {
+        "breaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "burning": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "smoking": {
+            "neg": 2,
+            "pos": 7,
+            "type": "action"
+        }
+    },
+    "celebrating/giphy-LjGDhU3rVBb4k_0.mp4": {
+        "celebrating": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "cheering/yt-aajSJC-aXD0_21.mp4": {
+        "applauding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "cheering": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "cheering/yt-eFcs7Erk-KI_226.mp4": {
+        "auditorium": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "cheering": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "cheerleading": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "performing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "child+speaking/yt-VThWntpL4yQ_15.mp4": {
+        "boy": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "child+speaking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "other"
+        },
+        "closing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "elevator/door": {
+            "neg": 1,
+            "pos": 4,
+            "type": "scene"
+        },
+        "opening": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "clapping/yt-YK-KKJl_8dg_115.mp4": {
+        "clapping": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "sitting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "slapping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stage": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "starting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "tapping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "climbing/yt-R8HXQkdgKWA_35.mp4": {
+        "ascending": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "climbing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "golf_course": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "gripping": {
+            "neg": 1,
+            "pos": 4,
+            "type": "action"
+        },
+        "hanging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "man": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "reaching": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "competing/flickr-7-6-6-7219225766_6.mp4": {
+        "baseball": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "baseball_field": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "competing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "crouching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "hitting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "orange": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "pitching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "plate": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        },
+        "playing+sports": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "squatting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "competing/getty-medium-low-angle-shot-of-soccer-players-practicing-keepie-uppie-utah-video-id691485719_2.mp4": {
+        "ball": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "bouncing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "competing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "playing+sports": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        }
+    },
+    "competing/getty-tour-de-france-peloton-climbing-the-d221-from-sarras-to-ardoix-video-id150159105_8.mp4": {
+        "bicycling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "competing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "pedaling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "playing+sports": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "racing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "crushing/yt-jQzYnUayoTE_398.mp4": {
+        "destroying": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "running": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "cutting/chef-preparing-orange-supreme-with-small-knife-video-id543866056.mp4": {
+        "closing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "cutting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "orange": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "peeling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "dancing/0-7-5-4-0-4-2-4-8107540424.mp4": {
+        "dancing": {
+            "neg": 2,
+            "pos": 6,
+            "type": "action"
+        },
+        "performing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "playing+music": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "rocking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stage": {
+            "neg": 1,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "dancing/yt-2dqHgyN-CjI_180.mp4": {
+        "dancing": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        },
+        "playing+music": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "dining/getty-eating-video-id461020030_10.mp4": {
+        "chopping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "cutting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "dining": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "eating": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "paying": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "plate": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "socializing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "drenching/getty-cu-shot-of-raining-drops-hitting-puddle-texas-united-states-video-id184158956_3.mp4": {
+        "drenching": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "falling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "raining": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "driving/car-onboard-camera-on-mountain-road-fedaia-pass-video-id164136612.mp4": {
+        "driving": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "mountain": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        }
+    },
+    "driving/flickr-7-3-0-7-0-5-8-3-13873070583_13.mp4": {
+        "driving": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "highway": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "road": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "skating": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "drying/yt-2xFTAu9ermA_57.mp4": {
+        "drying": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "emptying": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "picking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "eating/giphy-lpeitTCHW4n6g_0.mp4": {
+        "biting": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "chewing": {
+            "neg": 1,
+            "pos": 6,
+            "type": "action"
+        },
+        "dining": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "eating": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "erasing/getty-nobel-physics-laureate-professor-duncan-haldane-cleaning-a-blackboard-video-id614539836_5.mp4": {
+        "dressing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "erasing": {
+            "neg": 0,
+            "pos": 8,
+            "type": "action"
+        }
+    },
+    "filming/getty-american-actor-vin-diesel-is-welcomed-by-cubans-in-havana-as-he-takes-video-id528597972_58.mp4": {
+        "arresting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "autographing": {
+            "neg": 1,
+            "pos": 4,
+            "type": "action"
+        },
+        "discussing": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "filming": {
+            "neg": 1,
+            "pos": 7,
+            "type": "action"
+        },
+        "interviewing": {
+            "neg": 0,
+            "pos": 8,
+            "type": "action"
+        },
+        "reaching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "squinting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        }
+    },
+    "fishing/yt-fBZRRNWQHzY_70.mp4": {
+        "fishing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "ocean": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "washing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "gambling/getty-mens-and-womens-hands-placing-coloured-gambling-chips-on-printed-video-id1B03665_0001_11.mp4": {
+        "competing": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "gambling": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "placing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "table": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "giving/giphy-gZjN5xpV2ETDO_0.mp4": {
+        "giving": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "kissing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stealing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "gripping/getty-automatic-transmission-shifting-video-id836434748_3.mp4": {
+        "car": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "car_interior": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "driving": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "giving": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "gripping": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "pulling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "guarding/getty-police-stand-guard-during-protests-near-the-site-of-the-republican-video-id583785688_7.mp4": {
+        "joining": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "hiking/flickr-8-5-5-0-9-2-2-0-3685509220_12.mp4": {
+        "hiking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "injecting/vb-in-the-clinic-a-medical-cosmetologist-injects-botox-with-a-girl-to-increase-her-lips-hosaxmd3zj8j8a2iv_7.mp4": {
+        "chair": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        },
+        "injecting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "laying": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "office": {
+            "neg": 0,
+            "pos": 4,
+            "type": "scene"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "instructing/getty-group-of-people-work-together-measuring-wood-in-community-woodworking-video-id502571250_13.mp4": {
+        "instructing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "working": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "instructing/getty-kids-at-lesson-in-kindergarten-video-id811189440_5.mp4": {
+        "instructing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "man": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "sketching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "teaching": {
+            "neg": 1,
+            "pos": 7,
+            "type": "action"
+        },
+        "writing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "kissing/getty-human-development-mothers-love-video-id130209336_8.mp4": {
+        "autographing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "hugging": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "kissing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "laughing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "laughing/yt-AIs-bt6Mxm0_35.mp4": {
+        "bar": {
+            "neg": 1,
+            "pos": 3,
+            "type": "scene"
+        },
+        "giggling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "laughing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "laughing/yt-K_TeUp5aKME_35.mp4": {
+        "baby": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "giggling": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "laughing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "sneezing": {
+            "neg": 1,
+            "pos": 4,
+            "type": "action"
+        },
+        "squinting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "leaning/giphy-B6kEQ4XiPanu0_3.mp4": {
+        "closing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "dressing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "joining": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "leaning": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "opening": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "shaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "tie": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "twisting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "loading/getty-cargo-loading-to-airplanepanning-shot-video-id476906960_3.mp4": {
+        "airplane": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "loading": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "pulling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "opening/yt-5IGSLAMwqus_4.mp4": {
+        "opening": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "wrapping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "packing/getty-large-boxes-moving-along-a-conveyor-belt-united-kingdom-video-idmr_00077020_8.mp4": {
+        "packaging": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "packing/yt-VJdki64098U_437.mp4": {
+        "putting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "packing/yt-VfwPDeTeWNY_33.mp4": {
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "painting/yt-x0dMt_qrd4s_40.mp4": {
+        "drawing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "painting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "photographing/flickr-5-2-5-6-8-7-6-3-2952568763_8.mp4": {
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "photographing": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "piloting/getty-zoom-out-glider-pilot-in-cab-of-glider-flying-over-farmlands-video-id166-15_12.mp4": {
+        "flying": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "operating": {
+            "neg": 0,
+            "pos": 38,
+            "type": "action"
+        },
+        "piloting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "plane": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "playing/flickr-7-3-0-7-2-3-6-1-5773072361_34.mp4": {
+        "cat": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "playing+fun": {
+            "neg": 1,
+            "pos": 6,
+            "type": "other"
+        },
+        "reaching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stomping": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "swinging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "vacuuming": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "playing/yt-BuWCCFu5J8k_50.mp4": {
+        "building": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "fighting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "playing+fun": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "playing+videogames": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "swing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        },
+        "swinging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "plugging/yt-NLG8CsvF0K8_27.mp4": {
+        "plugging": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "pointing/getty-donald-trump-president-and-chief-executive-of-trump-organization-inc-video-id511576282_44.mp4": {
+        "conference_center": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "pointing": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "protesting/yt-0fQ-yYN8ffc_154.mp4": {
+        "climbing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "protesting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "road": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "starting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "waving": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "punting/yt-Vw8QrEgu4AA_268.mp4": {
+        "kicking": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "playing+sports": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "punting": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "racing/getty-medium-shot-tracking-shot-legs-of-male-runners-during-race-video-id669-36_5.mp4": {
+        "competing": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "racing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "repairing/getty-hand-solders-circuit-board-close-up-video-id654781238_2.mp4": {
+        "building": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "repairing": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "screwing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "rubbing/giphy-taTG7FMKdpFzq_0.mp4": {
+        "petting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "rubbing": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "shark": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "tank": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        }
+    },
+    "saluting/getty-title-macarthur-relieved-of-command-superimposed-over-us-general-video-id616076934_30.mp4": {
+        "entering": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "pushing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "saluting": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "sawing/getty-men-toiling-with-chainsaw-augustow-poland-video-id102710919_3.mp4": {
+        "bamboo_forest": {
+            "neg": 1,
+            "pos": 3,
+            "type": "scene"
+        },
+        "chopping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "cutting": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        },
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "removing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "sawing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "shaving/vine-Lois-Anne-Narvatez-my-hairdresser-Shaving-the-side-of-my-hair-longhairdontcare-haircut-shavedhairdontcare-Curlyhair-awesomelyawesome-MOlJpdvr5iD_3.mp4": {
+        "combing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "cutting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "giving": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "grooming": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "shaving": {
+            "neg": 0,
+            "pos": 8,
+            "type": "action"
+        },
+        "slicing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "trimming": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "shopping/giphy-3o72EYt1iLuqjv6VOw_1.mp4": {
+        "lifting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "shopping": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "shredding/yt-9Qk3u0pW_IA_289.mp4": {
+        "destroying": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "dropping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "spinning": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "tearing": {
+            "neg": 1,
+            "pos": 8,
+            "type": "action"
+        }
+    },
+    "singing/1pjIgsCKXz4_15.mp4": {
+        "boxing_ring": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "performing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "reaching": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "singing": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "stage": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "walking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "sitting/0-8-2-3-1-4-4-1-5708231441.mp4": {
+        "cups": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "holding": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "sitting": {
+            "neg": 1,
+            "pos": 6,
+            "type": "action"
+        }
+    },
+    "sitting/0-8-9-9189515089.mp4": {
+        "sitting": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        }
+    },
+    "sitting/flickr-1-7-5-7-7-9-3-9-5717577939_50.mp4": {
+        "boy": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "music_studio": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "sitting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "sneezing/giphy-LG9zOzbDJfUuA_2.mp4": {
+        "shaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "sneezing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "sneezing/giphy-ssRkAUOF64956_0.mp4": {
+        "baby": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "lion": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        },
+        "sneezing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "spitting/yt-kBNWN3lOskg_56.mp4": {
+        "leaning": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "smiling": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "spitting": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "tapping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "stacking/getty-stack-stone-video-id481275048_1.mp4": {
+        "beach": {
+            "neg": 0,
+            "pos": 5,
+            "type": "scene"
+        },
+        "hitting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "piling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "stacking": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        }
+    },
+    "standing/4-7-7-6735890477.mp4": {
+        "adult+male+speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        }
+    },
+    "standing/6-4-0-0-2-8-3-5-4164002835.mp4": {
+        "imitating": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "jogging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "walking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "standing/7-6-7-5-5-0-2-1-19176755021.mp4": {
+        "dancing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "dressing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "filming": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "standing/yt-W4CW9Zzy7YA_80.mp4": {
+        "adult+male+speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "ascending": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "cleaning": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "jumping": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "playing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "rising": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "smiling": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "talking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "tying": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "stitching/getty-senior-women-quilting-at-table-video-id590103012_1.mp4": {
+        "table": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "stroking/yt-z90eDJ4wPzw_5.mp4": {
+        "stroking": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        }
+    },
+    "surfing/giphy-C9ZVY5Y8MdqHm_2.mp4": {
+        "flowing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "landing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "surfing": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "wave": {
+            "neg": 0,
+            "pos": 4,
+            "type": "scene"
+        }
+    },
+    "talking/0-9-5-5044838095.mp4": {
+        "adult+male+speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "speaking": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "standing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "talking/3-6-4-5548666364.mp4": {
+        "house": {
+            "neg": 1,
+            "pos": 3,
+            "type": "scene"
+        },
+        "street": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "tearing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "working": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "talking/3-9-9-1-4-2-0-9-17939914209.mp4": {
+        "adult+male+speaking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        },
+        "interviewing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "performing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "sitting": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "speaking": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "stage": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "talking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        }
+    },
+    "talking/businessman-talks-at-restaurant-table-video-id675815747.mp4": {
+        "showing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "speaking": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "talking": {
+            "neg": 0,
+            "pos": 3,
+            "type": "other"
+        }
+    },
+    "talking/flickr-2-9-4-0-2-6-2-8-8429402628_19.mp4": {
+        "bike": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "crying": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "highway": {
+            "neg": 1,
+            "pos": 4,
+            "type": "scene"
+        },
+        "speaking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "talking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "other"
+        }
+    },
+    "tattooing/yt-24dSm4V_sGg_109.mp4": {
+        "person": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "tattooing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "towing/yt-Er_x0Ss1SHY_81.mp4": {
+        "pulling": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "tractor": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    },
+    "unloading/getty-shot-of-truck-unloading-material-for-new-bridge-at-saar-river-video-id454381943_5.mp4": {
+        "driving": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "emptying": {
+            "neg": 0,
+            "pos": 5,
+            "type": "action"
+        },
+        "packaging": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "removing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "tilting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "truck": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        },
+        "unloading": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "welding/getty-close-up-shots-of-a-plasma-cutter-cutting-shapes-out-of-a-sheet-of-video-id464741230_8.mp4": {
+        "stopping": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "vacuuming": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "welding": {
+            "neg": 3,
+            "pos": 7,
+            "type": "action"
+        },
+        "working": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "welding/getty-hdwelding-work-video-id479574998_2.mp4": {
+        "car": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "combusting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "mask": {
+            "neg": 0,
+            "pos": 3,
+            "type": "object"
+        },
+        "torch": {
+            "neg": 1,
+            "pos": 3,
+            "type": "object"
+        },
+        "welding": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        },
+        "working": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "working/bIKGeMsl9Vg_76.mp4": {
+        "descending": {
+            "neg": 2,
+            "pos": 5,
+            "type": "action"
+        },
+        "falling": {
+            "neg": 0,
+            "pos": 6,
+            "type": "action"
+        },
+        "writing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        }
+    },
+    "working/getty-full-shot-dolly-to-the-right-around-man-workng-late-at-his-desk-he-video-id117861004_3.mp4": {
+        "music_studio": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "office": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "working": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        }
+    },
+    "wrestling/getty-title-card-mat-king-keeps-title-new-york-the-greek-has-a-hold-for-it-video-id579640484_85.mp4": {
+        "attacking": {
+            "neg": 0,
+            "pos": 4,
+            "type": "action"
+        },
+        "boxing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "boxing_ring": {
+            "neg": 0,
+            "pos": 3,
+            "type": "scene"
+        },
+        "competing": {
+            "neg": 4,
+            "pos": 15,
+            "type": "action"
+        },
+        "fighting": {
+            "neg": 0,
+            "pos": 7,
+            "type": "action"
+        },
+        "jogging": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "sitting": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "throwing": {
+            "neg": 0,
+            "pos": 3,
+            "type": "action"
+        },
+        "wrestling": {
+            "neg": 1,
+            "pos": 5,
+            "type": "action"
+        }
+    },
+    "yawning/cheetah-preens-itself-and-yawns-south-africa-video-id1B65075_0254.mp4": {
+        "chewing": {
+            "neg": 1,
+            "pos": 3,
+            "type": "action"
+        },
+        "leopard": {
+            "neg": 0,
+            "pos": 4,
+            "type": "object"
+        }
+    }
+}

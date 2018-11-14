@@ -1,0 +1,67 @@
+html, body {
+    height: initial;
+}
+
+#page-title {
+    margin-top: 10px;
+    margin-bottom: 1.5em;
+}
+
+#sample-task {
+    display: none;
+}
+
+#instructions-demo {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.instructions-img {
+    width: 100%;
+}
+
+#experiment {
+    display: none;
+}
+
+#disclaimer-box {
+    color: #444;
+}
+
+p.disclaimer {
+    text-align: left;
+    font-size: 80%;
+}
+
+ol {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.ui.grid .row+.ui.divider.clutter {
+    margin-top:1.5em;
+    margin-bottom:0;
+}
+
+#remembered-title-subtask .large.input,
+#remembered-letters .large.input {
+    display: block;
+}
+
+#instructions .instruction-button,
+#confirm-show-graph button,
+#letters-subtask .show-letters-button,
+#next-button {
+    display: block;
+    margin: 4em auto 0 auto;
+}
+
+#remembered-letters h3,
+#remembered-title-subtask h3,
+#recall-graph-subtask h3 {
+    margin-bottom: 2em;
+}
+
+#graph-timer {
+    margin-top: 1em;
+}
