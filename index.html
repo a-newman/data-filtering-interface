@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>Clean this data</title>
+<meta name="description" content="Title Suggestion">
+<meta name="apnewman" content="Clean videos">
+
+<link rel="stylesheet" href="assets/lib/semantic/semantic.min.css">
+<link rel="stylesheet" href="assets/css/overrides.css">
+<script src="assets/lib/jquery/jquery-3.1.1.min.js"></script>
+<script src="assets/lib/semantic/semantic.min.js"></script>
+<script src="script.js"></script>
+
+</head>
+
+<body>
+	<h1 id="page-title" class="ui centered dividing header">Clean the following videos</h1>
+	<div id="task">
+	    <div class="ui container" style="margin-bottom: 10px">
+	    	<h3>Please look through the videos and mark any that are problematic according to the critera below.</h3>
+	    	<h4>We are putting together a data set of videos that resemble <span style="color: blue">natural home videos</span>. The videos should NOT:</h4>
+	    	<p>
+	    		<ul>
+	    			<li>contain inappropriate or objectionable content. This includes (but is not limited to): violence, sexuality, nudity, or profanity.</li>
+	    			<li>contain visible captions (e.g. a newscast), watermarks, or textual overlays (but it is ok to keep clips with timestamps or small logos at the top or bottom edges of the video)</li>
+	    			<li>be a cartoon, animation, video game clip, or other non-natural video</li>
+	    			<li>have a vertical orientation, low resolution, or degraded format</li>
+	    			<li>have abrupt cuts, are sped up or slowed down, or otherwise show signs of significant post-processing</li>
+	    		</ul>
+	    	</p>
+	    	<h4>Please flag videos that do not meet these criteria by selecting the button marked "Invalid" and then checking off any violations that you noticed. Note that if you are not sure if something is appropriate, you can mark it as "uncomfortable".</h4>
+	    	<h4>Note: You do NOT have to vet the audio content of the videos, ONLY the visual content.</h4>
+	    </div>
+		<div id="graph-grid" class="ui centered grid container">
+	    	<div class="row" style="text-align:center">
+	    		<button class="ui green button" id="submit-button">Submit</button>
+	    	</div>
+	    </div>
+	</div>
+	<div class="ui container">
+		<div id="success" style="display:none">
+			<h4 class="ui header green">Thanks! Your data was submitted sucessfully.</h4>
+		</div>
+		<div id="failure" style="display:none">
+			<h4 class="ui header red">Uh-oh! There was a problem submitting your data. Please send the following data to me directly:</h4>
+			<div id="data-submitted"></div>
+		</div>
+	</div>
+</body>
+</html>
